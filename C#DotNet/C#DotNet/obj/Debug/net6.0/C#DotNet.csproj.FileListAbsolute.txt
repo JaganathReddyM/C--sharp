@@ -1,0 +1,14 @@
+C:\Users\jaganathreddy.m\source\repos\C#DotNet\C#DotNet\bin\Debug\net6.0\C#DotNet.exe
+C:\Users\jaganathreddy.m\source\repos\C#DotNet\C#DotNet\bin\Debug\net6.0\C#DotNet.deps.json
+C:\Users\jaganathreddy.m\source\repos\C#DotNet\C#DotNet\bin\Debug\net6.0\C#DotNet.runtimeconfig.json
+C:\Users\jaganathreddy.m\source\repos\C#DotNet\C#DotNet\bin\Debug\net6.0\C#DotNet.dll
+C:\Users\jaganathreddy.m\source\repos\C#DotNet\C#DotNet\bin\Debug\net6.0\C#DotNet.pdb
+C:\Users\jaganathreddy.m\source\repos\C#DotNet\C#DotNet\obj\Debug\net6.0\C#DotNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaganathreddy.m\source\repos\C#DotNet\C#DotNet\obj\Debug\net6.0\C#DotNet.AssemblyInfoInputs.cache
+C:\Users\jaganathreddy.m\source\repos\C#DotNet\C#DotNet\obj\Debug\net6.0\C#DotNet.AssemblyInfo.cs
+C:\Users\jaganathreddy.m\source\repos\C#DotNet\C#DotNet\obj\Debug\net6.0\C#DotNet.csproj.CoreCompileInputs.cache
+C:\Users\jaganathreddy.m\source\repos\C#DotNet\C#DotNet\obj\Debug\net6.0\C#DotNet.dll
+C:\Users\jaganathreddy.m\source\repos\C#DotNet\C#DotNet\obj\Debug\net6.0\refint\C#DotNet.dll
+C:\Users\jaganathreddy.m\source\repos\C#DotNet\C#DotNet\obj\Debug\net6.0\C#DotNet.pdb
+C:\Users\jaganathreddy.m\source\repos\C#DotNet\C#DotNet\obj\Debug\net6.0\C#DotNet.genruntimeconfig.cache
+C:\Users\jaganathreddy.m\source\repos\C#DotNet\C#DotNet\obj\Debug\net6.0\ref\C#DotNet.dll

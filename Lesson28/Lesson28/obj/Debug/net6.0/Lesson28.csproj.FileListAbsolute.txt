@@ -1,0 +1,14 @@
+C:\Users\jaganathreddy.m\source\repos\Lesson28\Lesson28\obj\Debug\net6.0\Lesson28.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaganathreddy.m\source\repos\Lesson28\Lesson28\obj\Debug\net6.0\Lesson28.AssemblyInfoInputs.cache
+C:\Users\jaganathreddy.m\source\repos\Lesson28\Lesson28\obj\Debug\net6.0\Lesson28.AssemblyInfo.cs
+C:\Users\jaganathreddy.m\source\repos\Lesson28\Lesson28\obj\Debug\net6.0\Lesson28.csproj.CoreCompileInputs.cache
+C:\Users\jaganathreddy.m\source\repos\Lesson28\Lesson28\bin\Debug\net6.0\Lesson28.exe
+C:\Users\jaganathreddy.m\source\repos\Lesson28\Lesson28\bin\Debug\net6.0\Lesson28.deps.json
+C:\Users\jaganathreddy.m\source\repos\Lesson28\Lesson28\bin\Debug\net6.0\Lesson28.runtimeconfig.json
+C:\Users\jaganathreddy.m\source\repos\Lesson28\Lesson28\bin\Debug\net6.0\Lesson28.dll
+C:\Users\jaganathreddy.m\source\repos\Lesson28\Lesson28\bin\Debug\net6.0\Lesson28.pdb
+C:\Users\jaganathreddy.m\source\repos\Lesson28\Lesson28\obj\Debug\net6.0\Lesson28.dll
+C:\Users\jaganathreddy.m\source\repos\Lesson28\Lesson28\obj\Debug\net6.0\refint\Lesson28.dll
+C:\Users\jaganathreddy.m\source\repos\Lesson28\Lesson28\obj\Debug\net6.0\Lesson28.pdb
+C:\Users\jaganathreddy.m\source\repos\Lesson28\Lesson28\obj\Debug\net6.0\Lesson28.genruntimeconfig.cache
+C:\Users\jaganathreddy.m\source\repos\Lesson28\Lesson28\obj\Debug\net6.0\ref\Lesson28.dll

@@ -1,0 +1,14 @@
+C:\Users\jaganathreddy.m\source\repos\Lesson28\Lesson28\bin\Debug\net6.0\WEEK2.exe
+C:\Users\jaganathreddy.m\source\repos\Lesson28\Lesson28\bin\Debug\net6.0\WEEK2.deps.json
+C:\Users\jaganathreddy.m\source\repos\Lesson28\Lesson28\bin\Debug\net6.0\WEEK2.runtimeconfig.json
+C:\Users\jaganathreddy.m\source\repos\Lesson28\Lesson28\bin\Debug\net6.0\WEEK2.dll
+C:\Users\jaganathreddy.m\source\repos\Lesson28\Lesson28\bin\Debug\net6.0\WEEK2.pdb
+C:\Users\jaganathreddy.m\source\repos\Lesson28\Lesson28\obj\Debug\net6.0\WEEK2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaganathreddy.m\source\repos\Lesson28\Lesson28\obj\Debug\net6.0\WEEK2.AssemblyInfoInputs.cache
+C:\Users\jaganathreddy.m\source\repos\Lesson28\Lesson28\obj\Debug\net6.0\WEEK2.AssemblyInfo.cs
+C:\Users\jaganathreddy.m\source\repos\Lesson28\Lesson28\obj\Debug\net6.0\WEEK2.csproj.CoreCompileInputs.cache
+C:\Users\jaganathreddy.m\source\repos\Lesson28\Lesson28\obj\Debug\net6.0\WEEK2.dll
+C:\Users\jaganathreddy.m\source\repos\Lesson28\Lesson28\obj\Debug\net6.0\refint\WEEK2.dll
+C:\Users\jaganathreddy.m\source\repos\Lesson28\Lesson28\obj\Debug\net6.0\WEEK2.pdb
+C:\Users\jaganathreddy.m\source\repos\Lesson28\Lesson28\obj\Debug\net6.0\WEEK2.genruntimeconfig.cache
+C:\Users\jaganathreddy.m\source\repos\Lesson28\Lesson28\obj\Debug\net6.0\ref\WEEK2.dll

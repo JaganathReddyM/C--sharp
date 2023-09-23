@@ -1,0 +1,14 @@
+C:\Users\jaganathreddy.m\source\repos\Assinments\Assinments\obj\Debug\net6.0\Assinments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaganathreddy.m\source\repos\Assinments\Assinments\obj\Debug\net6.0\Assinments.AssemblyInfoInputs.cache
+C:\Users\jaganathreddy.m\source\repos\Assinments\Assinments\obj\Debug\net6.0\Assinments.AssemblyInfo.cs
+C:\Users\jaganathreddy.m\source\repos\Assinments\Assinments\obj\Debug\net6.0\Assinments.csproj.CoreCompileInputs.cache
+C:\Users\jaganathreddy.m\source\repos\Assinments\Assinments\bin\Debug\net6.0\Assinments.exe
+C:\Users\jaganathreddy.m\source\repos\Assinments\Assinments\bin\Debug\net6.0\Assinments.deps.json
+C:\Users\jaganathreddy.m\source\repos\Assinments\Assinments\bin\Debug\net6.0\Assinments.runtimeconfig.json
+C:\Users\jaganathreddy.m\source\repos\Assinments\Assinments\bin\Debug\net6.0\Assinments.dll
+C:\Users\jaganathreddy.m\source\repos\Assinments\Assinments\bin\Debug\net6.0\Assinments.pdb
+C:\Users\jaganathreddy.m\source\repos\Assinments\Assinments\obj\Debug\net6.0\Assinments.dll
+C:\Users\jaganathreddy.m\source\repos\Assinments\Assinments\obj\Debug\net6.0\refint\Assinments.dll
+C:\Users\jaganathreddy.m\source\repos\Assinments\Assinments\obj\Debug\net6.0\Assinments.pdb
+C:\Users\jaganathreddy.m\source\repos\Assinments\Assinments\obj\Debug\net6.0\Assinments.genruntimeconfig.cache
+C:\Users\jaganathreddy.m\source\repos\Assinments\Assinments\obj\Debug\net6.0\ref\Assinments.dll

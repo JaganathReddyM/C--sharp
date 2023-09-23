@@ -1,0 +1,14 @@
+C:\Users\jaganathreddy.m\source\repos\ClassWork\ClassWork\bin\Debug\net6.0\ClassWork.exe
+C:\Users\jaganathreddy.m\source\repos\ClassWork\ClassWork\bin\Debug\net6.0\ClassWork.deps.json
+C:\Users\jaganathreddy.m\source\repos\ClassWork\ClassWork\bin\Debug\net6.0\ClassWork.runtimeconfig.json
+C:\Users\jaganathreddy.m\source\repos\ClassWork\ClassWork\bin\Debug\net6.0\ClassWork.dll
+C:\Users\jaganathreddy.m\source\repos\ClassWork\ClassWork\bin\Debug\net6.0\ClassWork.pdb
+C:\Users\jaganathreddy.m\source\repos\ClassWork\ClassWork\obj\Debug\net6.0\ClassWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaganathreddy.m\source\repos\ClassWork\ClassWork\obj\Debug\net6.0\ClassWork.AssemblyInfoInputs.cache
+C:\Users\jaganathreddy.m\source\repos\ClassWork\ClassWork\obj\Debug\net6.0\ClassWork.AssemblyInfo.cs
+C:\Users\jaganathreddy.m\source\repos\ClassWork\ClassWork\obj\Debug\net6.0\ClassWork.csproj.CoreCompileInputs.cache
+C:\Users\jaganathreddy.m\source\repos\ClassWork\ClassWork\obj\Debug\net6.0\ClassWork.dll
+C:\Users\jaganathreddy.m\source\repos\ClassWork\ClassWork\obj\Debug\net6.0\refint\ClassWork.dll
+C:\Users\jaganathreddy.m\source\repos\ClassWork\ClassWork\obj\Debug\net6.0\ClassWork.pdb
+C:\Users\jaganathreddy.m\source\repos\ClassWork\ClassWork\obj\Debug\net6.0\ClassWork.genruntimeconfig.cache
+C:\Users\jaganathreddy.m\source\repos\ClassWork\ClassWork\obj\Debug\net6.0\ref\ClassWork.dll
